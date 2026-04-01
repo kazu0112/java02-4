@@ -22,7 +22,6 @@ public class Android {
 			
 			android.internet();
 			
-			
 	}
 
 }
